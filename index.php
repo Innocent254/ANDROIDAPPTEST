@@ -1,7 +1,7 @@
 <!-- index.php -->
 <html>
 <head>
-	<title>Shako - Speech Language Model</title>
+	<title>ANDROIDAPPTEST</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>
 		.container {
@@ -76,7 +76,7 @@
 					<li>Go to the Download ANDROIDAPPTEST button.</li>
 					<li>Click on the "Download" button .</li>
 				</ul>
-        <a href="/path/to/shako.zip" download class="button-link">Download ANDROIDAPPTEST</a>
+        				<a href="/path/to/shako.zip" download class="button-link">Download ANDROIDAPPTEST</a>
 			</div>
 		</div>
 	</div>
